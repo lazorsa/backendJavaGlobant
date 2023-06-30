@@ -1,4 +1,4 @@
-package com.guide08.activities.exercise1.entity;
+package com.guide08.activity.exercise1.entity;
 
 public class Vehicle {
         private String brand;

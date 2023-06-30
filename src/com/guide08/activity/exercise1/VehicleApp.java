@@ -1,7 +1,7 @@
-package com.guide08.activities.exercise1;
+package com.guide08.activity.exercise1;
 
-import com.guide08.activities.exercise1.entity.Vehicle;
-import com.guide08.activities.exercise1.service.VehicleService;
+import com.guide08.activity.exercise1.entity.Vehicle;
+import com.guide08.activity.exercise1.service.VehicleService;
 
 public class VehicleApp {
     public static void main(String[] args) {

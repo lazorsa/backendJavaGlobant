@@ -1,6 +1,6 @@
-package com.guide08.activities.exercise1.service;
+package com.guide08.activity.exercise1.service;
 
-import com.guide08.activities.exercise1.entity.Vehicle;
+import com.guide08.activity.exercise1.entity.Vehicle;
 
 import java.util.Scanner;
 
